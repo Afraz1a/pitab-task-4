@@ -1,0 +1,22 @@
+CitizenSense Baseline Model (TF-IDF + Logistic Regression)
+Validation accuracy: 0.9459
+Test accuracy: 0.9279
+Test weighted precision: 0.9334
+Test weighted recall: 0.9279
+Test weighted F1-score: 0.9287
+
+Per-class report:
+                        precision    recall  f1-score   support
+
+             Education       1.00      0.91      0.95        11
+           Electricity       1.00      1.00      1.00        15
+               General       0.80      0.92      0.86        13
+                Health       0.87      0.93      0.90        14
+Roads / Infrastructure       1.00      0.95      0.97        19
+            Sanitation       0.93      1.00      0.96        13
+               Traffic       1.00      0.83      0.91        12
+          Water Supply       0.86      0.86      0.86        14
+
+              accuracy                           0.93       111
+             macro avg       0.93      0.92      0.93       111
+          weighted avg       0.93      0.93      0.93       111

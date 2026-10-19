@@ -1,0 +1,20 @@
+{
+  "val_accuracy": 0.9459459459459459,
+  "test_accuracy": 0.9279279279279279,
+  "test_precision_weighted": 0.9333762333762333,
+  "test_recall_weighted": 0.9279279279279279,
+  "test_f1_weighted": 0.9286925015412123,
+  "n_train": 517,
+  "n_val": 111,
+  "n_test": 111,
+  "classes": [
+    "Education",
+    "Electricity",
+    "General",
+    "Health",
+    "Roads / Infrastructure",
+    "Sanitation",
+    "Traffic",
+    "Water Supply"
+  ]
+}

@@ -1,0 +1,16 @@
+Text Sample,Actual Label,Predicted Label,Confidence,Error Type,Possible Reason
+Please resolve the issue in our area as soon as possible.,Health,Health,0.182,Low-confidence (weak) prediction,Model was not confident even though the prediction was correct; text lacks a strong category-specific keyword.
+Please resolve the issue in sector G-9 as soon as possible.,Traffic,Health,0.183,Wrong category,Ambiguous/generic wording without a strong category-specific keyword
+We have been facing this problem in the housing scheme since last month.,Water Supply,Electricity,0.213,Wrong category,Ambiguous/generic wording without a strong category-specific keyword
+Please resolve the issue in the main market as soon as possible.,Traffic,Health,0.218,Wrong category,Ambiguous/generic wording without a strong category-specific keyword
+We have been facing this problem in sector F-11 for three days.,Water Supply,Sanitation,0.226,Wrong category,Ambiguous/generic wording without a strong category-specific keyword
+We have been facing this problem in our street for three days.,Electricity,Water Supply,0.231,Wrong category,Ambiguous/generic wording without a strong category-specific keyword
+The situation in sector F-11 has not improved despite complaints.,Education,General,0.264,Wrong category,Ambiguous/generic wording without a strong category-specific keyword
+No action has been taken in the colony for a long time.,Roads / Infrastructure,Water Supply,0.272,Wrong category,Contains both road and water issue
+The situation in our area has not improved despite complaints.,Health,General,0.291,Wrong category,Vague wording also plausible as a general complaint
+"This is a serious issue in near the park, please look into it urgently.",General,Health,0.292,Wrong category,Vague wording also plausible as a general complaint
+"This is a serious issue in the industrial zone, please look into it urgently.",Electricity,Health,0.294,Wrong category,Ambiguous/generic wording without a strong category-specific keyword
+There is a problem in ward 5 that needs attention.,Electricity,General,0.303,Wrong category,"Short, generic phrasing with few electricity-specific keywords"
+No action has been taken in our locality for a long time.,General,Water Supply,0.32,Wrong category,Vague wording also plausible as a general complaint
+There is a problem in our locality that needs attention.,Water Supply,General,0.321,Wrong category,Vague wording also plausible as a general complaint
+No action has been taken in our street for a long time.,General,Water Supply,0.364,Wrong category,Vague wording also plausible as a general complaint

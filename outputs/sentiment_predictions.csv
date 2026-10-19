@@ -1,0 +1,112 @@
+text,sentiment,predicted_sentiment
+"sector G-9 mein traffic signal kaam nahi kar raha, roz jam lagta hai",Negative,Negative
+Traffic police presence near the colony has reduced congestion a lot.,Positive,Negative
+The situation in our area has not improved despite complaints.,Negative,Negative
+The street in our neighborhood is damaged and sewage water is flowing over it.,Negative,Negative
+The situation in sector F-11 has not improved despite complaints.,Negative,Negative
+There is severe traffic congestion on sector G-9 every morning since last night.,Negative,Negative
+The water supply line near our area is leaking badly and wasting a lot of water.,Negative,Negative
+"our street mein since last month se paani nahi aa raha, bohat pareshani ho rahi hai",Negative,Negative
+The water we receive in sector F-11 is dirty and unsafe to drink.,Negative,Negative
+"Street construction in the village has been abandoned halfway, blocking traffic for three days.",Negative,Negative
+There is a huge pothole on our neighborhood that is causing accidents since yesterday.,Negative,Negative
+The ambulance service for sector G-9 took too long to respond to an emergency.,Negative,Negative
+"our street mein kachra since last month se nahi uthaya gaya, bohat badbu aa rahi hai",Negative,Negative
+The drainage system in our street is overflowing with sewage since morning.,Negative,Negative
+Asking about the cleaning schedule for the drains in near the park.,Neutral,Negative
+We have been facing this problem in sector F-11 for three days.,Negative,Negative
+The sanitation workers did a great job cleaning sector F-11 this week.,Positive,Positive
+The new computer lab at the school in the main market is a great addition for students.,Positive,Positive
+When do admissions open for the school in model town?,Neutral,Negative
+Asking if a vaccination camp is planned for the main road soon.,Neutral,Negative
+The new traffic signal installed near the village has really improved the flow.,Positive,Positive
+The school building in our street has a damaged roof that leaks during rain.,Negative,Negative
+"Street construction in the main market has been abandoned halfway, blocking traffic for several hours.",Negative,Negative
+Low water pressure in block C makes it impossible to fill tanks since yesterday.,Negative,Negative
+Trash is piling up near our locality and attracting stray animals and insects.,Negative,Negative
+No action has been taken in the colony for a long time.,Negative,Negative
+Road issue near block C affecting traffic flow.,Negative,Neutral
+Stray dogs in ward 5 have become a serious nuisance for residents.,Negative,Negative
+The footpath in the industrial zone is completely broken and dangerous for pedestrians.,Negative,Negative
+"Traffic signals near the colony have not been working for several hours, causing major jams.",Negative,Negative
+Public transport near the colony is overcrowded and unreliable for two weeks.,Negative,Negative
+The bridge near the village has developed cracks and feels unsafe to cross.,Negative,Negative
+"Sewage water is leaking onto the street in model town, causing health hazards.",Negative,Negative
+Voltage fluctuation in our locality has burnt out several electrical devices.,Negative,Negative
+No doctor was available at the health center in our locality for three days.,Negative,Negative
+"Road is broken and water is standing in our area, please fix it.",Negative,Negative
+What day does the garbage truck usually visit the old town?,Neutral,Negative
+Requesting information about upcoming community events in ward 5.,Neutral,Positive
+What is the scheduled water supply timing for the old town?,Neutral,Negative
+Power problem in sector F-11.,Negative,Negative
+"Road is broken and water is standing in phase 2, please fix it.",Negative,Negative
+"The transformer near our street is sparking and making loud noises, very dangerous.",Negative,Negative
+Requesting an update on the new electricity meter installation in our neighborhood.,Neutral,Negative
+Frequent power outages in our area are damaging our appliances for the past few days.,Negative,Negative
+The government school in the main market lacks basic furniture and classrooms are overcrowded.,Negative,Negative
+The new computer lab at the school in our area is a great addition for students.,Positive,Positive
+Requesting an update on the new electricity meter installation in the main market.,Neutral,Negative
+No doctor was available at the health center in sector F-11 since yesterday.,Negative,Negative
+Requesting information about upcoming community events in block C.,Neutral,Positive
+School staff was unhelpful when we visited in sector F-11.,Negative,Negative
+The new street lights installed in near the park work really well.,Positive,Positive
+Garbage has not been collected in the main road for two weeks and it is creating a terrible smell.,Negative,Negative
+The public toilet near the village is extremely dirty and has not been cleaned since last month.,Negative,Negative
+The government hospital in sector G-9 is understaffed and overcrowded.,Negative,Negative
+Asking about the new water filtration plant planned for the main road.,Neutral,Negative
+We have been facing this problem in the housing scheme since morning.,Negative,Negative
+There is a huge pothole on our neighborhood that is causing accidents since morning.,Negative,Negative
+What are the visiting hours for the clinic in the old town?,Neutral,Negative
+No action has been taken in our street for a long time.,Negative,Negative
+Overall services in the old town have improved noticeably this year.,Positive,Positive
+There is a problem in our locality that needs attention.,Negative,Negative
+The public toilet near sector F-11 is extremely dirty and has not been cleaned for the past few days.,Negative,Negative
+The government hospital in near the park is understaffed and overcrowded.,Negative,Negative
+There are not enough textbooks available for students in the old town.,Negative,Negative
+Trash is piling up near our neighborhood and attracting stray animals and insects.,Negative,Negative
+"Traffic signals near the colony have not been working for a week, causing major jams.",Negative,Negative
+The government school in the village lacks basic furniture and classrooms are overcrowded.,Negative,Negative
+What is the scheduled water supply timing for near the park?,Neutral,Negative
+"Road is broken and water is standing in the main road, please fix it.",Negative,Negative
+"A live wire is hanging dangerously near the main road, this needs immediate attention.",Negative,Negative
+Hospital staff was rude in sector F-11.,Negative,Negative
+What day does the garbage truck usually visit our neighborhood?,Neutral,Negative
+"the village mein traffic signal kaam nahi kar raha, roz jam lagta hai",Negative,Negative
+Please resolve the issue in sector G-9 as soon as possible.,Negative,Positive
+Garbage is not collected on the road in our area.,Negative,Negative
+Requesting information about the road widening project in our neighborhood.,Neutral,Neutral
+"Open manholes on the village have not been covered since morning, it is very risky.",Negative,Negative
+No electricity in sector G-9 since morning.,Negative,Negative
+"Street lights in the colony have not worked for several hours, it is unsafe to walk at night.",Negative,Negative
+"Street construction in near the park has been abandoned halfway, blocking traffic for the past few days.",Negative,Negative
+Public transport near our street is overcrowded and unreliable since last month.,Negative,Negative
+Stray dogs in our street have become a serious nuisance for residents.,Negative,Negative
+Great job on fixing the street lights and road markings in the colony.,Positive,Positive
+The road in model town has been broken since morning and rainwater collects every day. Please fix it urgently.,Negative,Neutral
+Asking if a vaccination camp is planned for sector F-11 soon.,Neutral,Negative
+Please resolve the issue in the main market as soon as possible.,Negative,Positive
+When is the scheduled load shedding time for our street?,Neutral,Negative
+Stray dogs in the old town have become a serious nuisance for residents.,Negative,Negative
+The new computer lab at the school in the housing scheme is a great addition for students.,Positive,Positive
+Please resolve the issue in our area as soon as possible.,Negative,Positive
+The water supply line near the old town is leaking badly and wasting a lot of water.,Negative,Negative
+No traffic police are present at the busy intersection near the main road.,Negative,Negative
+"This is a serious issue in sector G-9, please look into it urgently.",Negative,Positive
+No electricity in the main market since morning.,Negative,Negative
+The free medical camp organized in our neighborhood was really beneficial for residents.,Positive,Positive
+What is the scheduled water supply timing for the main market?,Neutral,Negative
+Asking how to register a complaint about noise levels in block C.,Neutral,Negative
+The new computer lab at the school in the main road is a great addition for students.,Positive,Positive
+"Street lights in the main road have not worked for several hours, it is unsafe to walk at night.",Negative,Negative
+There is a shortage of medicines at the clinic in our area for the past few days.,Negative,Negative
+"Open manholes on the main road have not been covered for three days, it is very risky.",Negative,Negative
+When will the road repair work in phase 2 be completed?,Neutral,Negative
+Water supply has improved a lot in block C after the new pipeline installation.,Positive,Positive
+Is there a schedule for resurfacing the road near the industrial zone?,Neutral,Negative
+Public transport near sector G-9 is overcrowded and unreliable for months.,Negative,Negative
+Asking about the new one-way traffic rule for the colony.,Neutral,Negative
+Stray dogs in our locality have become a serious nuisance for residents.,Negative,Negative
+"A live wire is hanging dangerously near our neighborhood, this needs immediate attention.",Negative,Negative
+We have been facing this problem in our street since yesterday.,Negative,Negative
+The water we receive in sector G-9 is dirty and unsafe to drink.,Negative,Negative
+"Something is wrong in sector F-11, please look into it.",Negative,Positive

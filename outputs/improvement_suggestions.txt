@@ -1,0 +1,8 @@
+CitizenSense - Suggested improvements based on error analysis
+
+- Add more labeled examples for classes with lower F1 (General, Water Supply, Health).
+- Balance weak/ambiguous classes with additional, more distinctive training examples.
+- Improve label guidelines so short/vague complaints get a consistent category (e.g. default to General).
+- Add more Roman Urdu / multilingual training data rather than a small bonus slice.
+- Fine-tune a transformer (e.g. DistilBERT) which can use context better than bag-of-words TF-IDF.
+- Add a human-review queue for predictions below a confidence threshold (e.g. < 0.55).

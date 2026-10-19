@@ -1,0 +1,31 @@
+text,category,predicted_category,correct,sentiment,priority,language
+"sector G-9 mein traffic signal kaam nahi kar raha, roz jam lagta hai",Traffic,Traffic,True,Negative,Medium,roman_ur
+Traffic police presence near the colony has reduced congestion a lot.,Traffic,Traffic,True,Positive,Low,en
+The situation in our area has not improved despite complaints.,Health,General,False,Negative,Medium,en
+The street in our neighborhood is damaged and sewage water is flowing over it.,Roads / Infrastructure,Roads / Infrastructure,True,Negative,High,en
+The situation in sector F-11 has not improved despite complaints.,Education,General,False,Negative,Medium,en
+There is severe traffic congestion on sector G-9 every morning since last night.,Traffic,Traffic,True,Negative,High,en
+The water supply line near our area is leaking badly and wasting a lot of water.,Water Supply,Water Supply,True,Negative,High,en
+"our street mein since last month se paani nahi aa raha, bohat pareshani ho rahi hai",Water Supply,Water Supply,True,Negative,High,roman_ur
+The water we receive in sector F-11 is dirty and unsafe to drink.,Water Supply,Water Supply,True,Negative,High,en
+"Street construction in the village has been abandoned halfway, blocking traffic for three days.",Roads / Infrastructure,Roads / Infrastructure,True,Negative,High,en
+There is a huge pothole on our neighborhood that is causing accidents since yesterday.,Roads / Infrastructure,Roads / Infrastructure,True,Negative,High,en
+The ambulance service for sector G-9 took too long to respond to an emergency.,Health,Health,True,Negative,High,en
+"our street mein kachra since last month se nahi uthaya gaya, bohat badbu aa rahi hai",Sanitation,Sanitation,True,Negative,High,roman_ur
+The drainage system in our street is overflowing with sewage since morning.,Sanitation,Sanitation,True,Negative,High,en
+Asking about the cleaning schedule for the drains in near the park.,Sanitation,Sanitation,True,Neutral,Medium,en
+We have been facing this problem in sector F-11 for three days.,Water Supply,Sanitation,False,Negative,Medium,en
+The sanitation workers did a great job cleaning sector F-11 this week.,Sanitation,Sanitation,True,Positive,Low,en
+The new computer lab at the school in the main market is a great addition for students.,Education,Education,True,Positive,Low,en
+When do admissions open for the school in model town?,Education,Education,True,Neutral,Low,en
+Asking if a vaccination camp is planned for the main road soon.,Health,Health,True,Neutral,Medium,en
+The new traffic signal installed near the village has really improved the flow.,Traffic,Traffic,True,Positive,Low,en
+The school building in our street has a damaged roof that leaks during rain.,Education,Education,True,Negative,Medium,en
+"Street construction in the main market has been abandoned halfway, blocking traffic for several hours.",Roads / Infrastructure,Roads / Infrastructure,True,Negative,High,en
+Low water pressure in block C makes it impossible to fill tanks since yesterday.,Water Supply,Water Supply,True,Negative,High,en
+Trash is piling up near our locality and attracting stray animals and insects.,Sanitation,Sanitation,True,Negative,High,en
+No action has been taken in the colony for a long time.,Roads / Infrastructure,Water Supply,False,Negative,Medium,en
+Road issue near block C affecting traffic flow.,Traffic,Traffic,True,Negative,Medium,en
+Stray dogs in ward 5 have become a serious nuisance for residents.,General,General,True,Negative,Low,en
+The footpath in the industrial zone is completely broken and dangerous for pedestrians.,Roads / Infrastructure,Roads / Infrastructure,True,Negative,High,en
+"Traffic signals near the colony have not been working for several hours, causing major jams.",Traffic,Traffic,True,Negative,High,en

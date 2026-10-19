@@ -1,0 +1,23 @@
+{
+  "category": {
+    "0": "Education",
+    "1": "Electricity",
+    "2": "General",
+    "3": "Health",
+    "4": "Roads / Infrastructure",
+    "5": "Sanitation",
+    "6": "Traffic",
+    "7": "Water Supply"
+  },
+  "sentiment": {
+    "0": "Negative",
+    "1": "Neutral",
+    "2": "Positive"
+  },
+  "priority": {
+    "0": "High",
+    "1": "Low",
+    "2": "Medium",
+    "3": "Urgent"
+  }
+}
